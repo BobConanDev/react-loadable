@@ -72,7 +72,7 @@ export default class App extends React.Component {
 - [reformma](https://reformma.com.br)
 - [Render](https://render.com)
 - [Shift](https://shift.com)
-- [Snipit](https://snipit.io)
+- [snippet](https://snippet.io)
 - [Spectrum.chat](https://spectrum.chat)
 - [Superblocks](https://superblocks.com)
 - [Sprint Boards](https://sprintboards.io)
